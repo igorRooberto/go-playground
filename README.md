@@ -1,4 +1,4 @@
-Go Playground
+
 
 Repositório criado para estudar e praticar a linguagem Go, reunindo exercícios e pequenos projetos desenvolvidos durante o aprendizado.
 
